@@ -9,3 +9,5 @@ Testing with a file that don't change.
 4- Change n° 4
 
 5- Change n° 5
+
+6- Change original n° 6
